@@ -1,0 +1,5 @@
+# Ignorar archivos específicos de Grafana Enterprise
+grafanaenterprise.lic
+
+# Opcionalmente, ignora cualquier otro archivo relacionado si tienen un patrón común
+grafanaenterprise.*
